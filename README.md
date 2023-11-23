@@ -1,3 +1,8 @@
+# 담당 업무
+- DALL-E 3를 이용한 동화 **그림 생성 프롬프트 개발**
+- 편지, 목소리 **REST API 개발** 담당
+- Git/Jira Convention 및 스프린트 관리 담당
+
 # 도란도란
 
 ![Untitled](assets/도란도란.png)
